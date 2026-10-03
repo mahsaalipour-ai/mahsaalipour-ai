@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi there, I'm Mahsa Alipour 👋
 
-<!--
-**mahsaalipour-ai/mahsaalipour-ai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🔬 AI Researcher | M.Sc. in Computer Science
+Focusing on **Adversarial Machine Learning**, **Computer Vision Security**, and **Robust Deep Learning Architecture**.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌐 Research Interests
+- 🛡️ **Adversarial ML & Defense Mechanisms:** Data-Free Adversarial Defense, Feature Squeezing, Adversarial Training.
+- 👁️ **Computer Vision & Security:** Deep Facial Recognition Robustness, Critical Region Selection, Keypoint-based Attacks (e.g., DKA2).
+- 🤖 **Robotics & Autonomous Systems:** Vision-guided Decision Making & Robust Pattern Recognition.
+
+---
+
+### 💻 Tech Stack & Tools
+- **Languages:** Python, C++
+- **Frameworks & Libraries:** PyTorch, TensorFlow, OpenCV, NumPy, SciPy, Scikit-Learn
+- **Tools & Environments:** Git, Linux, CUDA, Jupyter, VS Code
+
+---
+
+### 📬 Connect with Me
+- 💼 [LinkedIn](https://linkedin.com/in/mahsaalipour-ai)
